@@ -70,13 +70,13 @@ public class Calculator {
             Exercise.write(s);
             Exercise.newLine();
             Exercise.flush();
-            System.out.println(s);
+        
         }
         for (String s : answerdata) {
             Answer.write(s);
             Answer.newLine();
             Answer.flush();
-            System.out.println(s);
+           
         }
 
 
